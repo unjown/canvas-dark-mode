@@ -1,8 +1,8 @@
 {
-  "name": "Canvas Dark Mode",
+  "name": "Canvas Dark Mode2",
   "version": "1.1.6",
   "manifest_version": 3,
-  "description": "Dark Mode for Canvas.",
+  "description": "Dark Mode for Canvas2.",
   "homepage_url": "https://github.com/DeGrandis/canvas-dark-mode",
   "icons": {
     "16": "icons/icon16.png",
@@ -220,8 +220,8 @@
         "https://mycanvas.mohawkcollege.ca/*",
         "https://canvas.park.edu/*",
         "https://learn.irvingisd.net/*",
-        "https://courses.ecu.edu.au/*"
-        "https://canvas.msstate.edu/*",
+        "https://courses.ecu.edu.au/*",
+        "https://canvas.msstate.edu/*"
       ],
       "css":[
           "css/styles.css"
